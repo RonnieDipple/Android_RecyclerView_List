@@ -61,4 +61,4 @@ Since we are going to be manually adding elements to the list, we'll have to not
 Make sure the images you add are added to the ui and that you can select them to go into the details view
 
 #### Challenge
-Chose another app which we have built or one you build on your own and implement a `RecyclerView` in it.
+Chose another app which we have built or one you build on your own and implement a `RecyclerView` in it......
